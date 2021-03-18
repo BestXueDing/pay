@@ -65,14 +65,7 @@
       <option name="project" value="LOCAL" />
       <updated>1616052462958</updated>
     </task>
-    <task id="LOCAL-00003" summary="diyi">
-      <created>1616644185655</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1616644185655</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,18 +85,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <MESSAGE value="diyi" />
-    <option name="LAST_COMMIT_MESSAGE" value="diyi" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="781" y="455" key="NewPhpFileDialog" timestamp="1616052454251">
       <screen x="0" y="23" width="1920" height="1004" />
     </state>
     <state x="781" y="455" key="NewPhpFileDialog/0.23.1920.1004@0.23.1920.1004" timestamp="1616052454251" />
-    <state x="560" y="252" key="Vcs.Push.Dialog.v2" timestamp="1616644187804">
+    <state x="560" y="252" key="Vcs.Push.Dialog.v2" timestamp="1616052467001">
       <screen x="0" y="23" width="1920" height="1004" />
     </state>
-    <state x="560" y="252" key="Vcs.Push.Dialog.v2/0.23.1920.1004@0.23.1920.1004" timestamp="1616644187804" />
+    <state x="560" y="252" key="Vcs.Push.Dialog.v2/0.23.1920.1004@0.23.1920.1004" timestamp="1616052467001" />
     <state x="752" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616052439981">
       <screen x="0" y="23" width="1920" height="1004" />
     </state>
